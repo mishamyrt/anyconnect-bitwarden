@@ -23,7 +23,9 @@ After filling in the required values, you can install the script in two ways. Re
 
 ### Terminal
 
-In the terminal with the project folder, execute the commands. To execute second command, you will have to enter the superuser password
+After installation using this method, you will have access to the `anyconnect-bitwarden` command.
+
+In the terminal with the project folder, execute the commands. To execute second command, you will have to enter the superuser password.
 
 ```sh
 make build
